@@ -1,1 +1,10 @@
+---
+layout: post
+title:  "Ruby v1.2 now available for iPhone, iPad, and Apple Watch"
+date:   2021-03-10 12:00:00 -0500
+categories: update
+---
 
+Ruby v1.2 has been released for iOS and watchOS. This update brings many enhancements to the experience for all users.
+
+For 
