@@ -19,6 +19,6 @@ Ruby v1.2 has been released for iOS and watchOS! This update brings many enhance
 - Introduced a new Reader View, which gets rid of the Ads and other Popups that were previously shown when loading a news article directly from the web.
 - Fixed issue where your Region/Language wouldn’t properly set for the Trending and Search tab.
 
-### Even More
+### Final Words
 We hope you guys enjoy this update. Feel free to share [Ruby](https://apps.apple.com/us/app/id1522815729) with your friends, and please give us any feedback on [Twitter](https://twitter.com/peroxaan). Our DMs are open for suggestions!
 
