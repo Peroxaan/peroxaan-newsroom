@@ -5,7 +5,7 @@ date:   2021-03-18 21:50:00 -0500
 categories: announcement
 ---
 
-<img align="right" width="300" height="300" src="/assets/images/RubyFeatured.png">
+<img align="right" width="250" height="250" style="padding: 25px" src="/assets/images/RubyFeatured.png">
 
 On March 14th, Apple featured Ruby on the App Store on iPhone and iPad! This is really cool, and I'm very thankful.
 
