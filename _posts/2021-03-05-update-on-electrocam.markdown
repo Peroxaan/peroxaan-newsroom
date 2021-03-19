@@ -10,6 +10,8 @@ Hello everyone! Last January, we unveiled Electrocam, an app that was supposed t
 Matter of fact, the first Electrocam beta released about one year ago today. And while we got a lot of support, we just haven't done much
 with the project. So, we're officially postponing it indefinitely (which is professional language for cancelled).
 
+<img align="right" width="250" height="250" style="padding-left: 25px; padding-bottom: 25px;" src="/assets/images/Electrocamimg.png">
+
 ### Reasons
 There are a few reasons that we're cancelling it, the first reason being that we didn't have much motivation as a team to work on it.
 The camera app market is already quite saturated, and we didn't have much of a niche we felt we could fill successfully. 
