@@ -22,3 +22,5 @@ More specifically, they featured it in the "New Features, New Contents" section.
 ### Final Words
 
 If you're in one of those regions, check it out! We're not featured in the US or UK unfortunately, but maybe some day. I'm still very thankful to the App Store Editorial Team for picking Ruby. This will help us a ton.
+
+Also, if you haven't downloaded Ruby already, feel free to do so from our [website](https://peroxaan.com/Ruby). It's available on iPhone, iPad, Apple Watch, Mac, and Android.
