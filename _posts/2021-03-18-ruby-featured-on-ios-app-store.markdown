@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ruby now featured on the iOS App Store in certain regions"
-date:   2021-03-18 21:45:00 -0500
+date:   2021-03-18 21:50:00 -0500
 categories: announcement
 ---
 
