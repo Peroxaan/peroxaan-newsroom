@@ -2,10 +2,11 @@
 layout: post
 title:  "Ruby now featured on the iOS App Store in certain regions"
 date:   2021-03-18 21:50:00 -0500
-image: /assets/images/RubyFeatured.png
 categories: announcement
 ---
 
+
+![Featured Graphic](/assets/images/RubyFeatured.png)
 On March 14th, Apple featured Ruby on the App Store on iPhone and iPad! This is really cool, and I'm very thankful.
 
 ### The details
