@@ -5,6 +5,8 @@ date:   2021-03-10 12:00:00 -0500
 categories: update
 ---
 
+<img align="right" width="250" height="250" style="padding-left: 25px; padding-bottom: 25px;" src="/assets/images/RubyMac.JPG">
+
 Ruby v1.2 has been released for iOS and watchOS! This update brings many enhancements to the experience for all users. This update also brings Ruby to the Mac for the first time.
 
 ### Important Stuff
