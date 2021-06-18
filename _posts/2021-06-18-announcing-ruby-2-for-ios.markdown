@@ -5,7 +5,7 @@ date:   2021-06-18 18:30:00 -0500
 categories: announcement
 ---
 
-<img align="right" width="250" height="250" style="padding-left: 25px; padding-bottom: 25px;" src="/assets/images/RubyMac.JPG">
+<img align="right" width="250" height="250" style="padding-left: 25px; padding-bottom: 25px;" src="/assets/images/RubyIcon.png">
 
 We're happy to announce that Ruby 2.0 is coming, built for iOS 15, watchOS 8, and macOS Monterey. This is the first of many announcements we'll make based on the new technologies unveiled at WWDC21.
 
