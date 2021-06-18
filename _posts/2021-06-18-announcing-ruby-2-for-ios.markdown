@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Announcing Ruby 2.0, built for iOS 15"
-date:   2021-06-18 18:30:00 -0500
+date:   2021-06-18 18:50:00 -0500
 categories: announcement
 ---
 
