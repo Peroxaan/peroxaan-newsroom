@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[Peroxaan Studios](https://peroxaan.com) is a company founded by [Michael Burkhardt](https://twitter.com/tme_michael) on July 12th, 2017. We make cool apps, games, and services for iOS, Android, macOS, Windows, and the Web.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+We encourage you to engage with us across our Social Medias, which are linked in the footer of the page.
