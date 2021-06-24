@@ -15,14 +15,14 @@ After half a year since it was [first teased](https://twitter.com/peroxaan/statu
 
 Talon for Windows matches the design scheme of Windows quite well in our opinion, and we think it'll fit right in with everything else. [Iris](https://twitter.com/TheLBall) did great work here. Check out the official unveil video:
   
-<video align="left" width="1280" height="720" style="padding-left: 25px; padding-bottom: 25px;" controls>
-  <source src="TalonForWindows.mp4" type="video/mp4">
-</video>
+(there will be a tweet embed here but obviously i cant embed the tweet if it has not been tweeted yet)
 
 ### Features
 
 Talon for Windows includes all of the features from Talon for iOS and Android - including Discord/Slack Webhooks, Custom Webhooks, and Link Shortening - for free. No Talon Pro required. Talon for Windows will also receieve updates over time as we work on new features for all platforms, including iOS, macOS, Android, and now Windows.
 
-### Conclusion
+### Final Thoughts
 
-Talon for Windows brings the wonderful Talon experience to Windows - and we hope you love it. Feel free to join our [Discord](https://discord.gg/MWPqmZG) to report any bugs or give feedback on Talon for Windows. In case you missed it earlier, you can download Talon for Windows [here](https://downloads.peroxaan.com/TalonWin/TalonSetup.exe). Massive shoutout to [Iris](https://twitter.com/thelball) for her hard work on this - please go give her a follow if you have not already! Additionally, for all updates on Talon for Windows - make sure you follow us on Twitter [too](https://twitter.com/peroxaan).
+Talon for Windows brings the wonderful Talon experience to Windows - and we hope you love it. Feel free to join our [Discord](https://discord.gg/MWPqmZG) to report any bugs or give feedback on Talon for Windows. In case you missed it earlier, you can download Talon for Windows [here](https://downloads.peroxaan.com/TalonWin/TalonSetup.exe). 
+
+Massive shoutout to [Iris](https://twitter.com/thelball) for her hard work on this - please go give her a follow if you have not already! Additionally, for all updates on Talon for Windows - make sure you follow us on Twitter [too](https://twitter.com/peroxaan).
