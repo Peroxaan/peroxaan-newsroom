@@ -15,7 +15,7 @@ After half a year since it was [first teased](https://twitter.com/peroxaan/statu
 
 Talon for Windows matches the design scheme of Windows quite well in our opinion, and we think it'll fit right in with everything else. [Iris](https://twitter.com/TheLBall) did great work here. Check out the official unveil video:
 
-<img align="left" width="1280" height="720" style="padding-left: 25px; padding-bottom: 25px;" src="/assets/videos/TalonWindows.mov">
+<img align="left" width="1280" height="720" style="padding-left: 25px; padding-bottom: 25px;" src="/assets/videos/TalonForWindows.mp4">
 
 ### Features
 
