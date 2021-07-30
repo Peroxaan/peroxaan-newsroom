@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Announcing Ruby 2.0, built for iOS 15"
+title:  "Ruby v2.0 beta for iOS now available to the public"
 date:   2021-07-30 12:30:00 -0500
 categories: announcement
 ---
