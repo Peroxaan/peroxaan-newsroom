@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Announcing Ruby 2.0, built for iOS 15"
+date:   2021-07-30 12:30:00 -0500
+categories: announcement
+---
+
+<img align="right" width="250" height="250" style="padding-left: 25px; padding-bottom: 25px;" src="/assets/images/RubyIcon.png">
+
+Ruby 2.0, with many new features from WWDC21, is now available to the public TestFlight group! If you haven't joined yet, you can join [here](https://testflight.apple.com/join/EcbyojPY).
+
+To learn more about what we're working on in Ruby v2.0, you can read about it [here](https://newsroom.peroxaan.com/announcement/2021/06/18/announcing-ruby-2-for-ios.html).
