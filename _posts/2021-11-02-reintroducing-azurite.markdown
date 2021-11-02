@@ -21,6 +21,9 @@ At first, we will be building an iOS app for iPhone, iPad, and iPod touch - but 
 ### Azurite beta!?
 I'm glad you asked! If you're part of our Insider program (which is not currently accepting new users) - you'll get an Azurite "beta 0" within the next few days, and for everyone else - we plan to launch a public Azurite beta by the end of the year. Stay tuned!
 
+### Where can I see Azurite?
+The first two screenshots of the updated version of Azurite for iOS can be viewed on this Tweet (if you're reading this within ~5 mins of it being tweeted, you wont have the link yet) 😄
+
 ### What's next?
 We plan to launch Azurite on the iOS App Store sometime next year, likely around the Summer/Fall timeframe. Besides that though, we look forward to giving everyone access to Azurite in a public beta form later this year! 
 Thanks for supporting us along the way <3
