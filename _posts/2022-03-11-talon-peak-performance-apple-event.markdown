@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Talon Featured in Apple's 'Peak Performance' Apple Event"
-date:   2021-03-11 15:00:00 -0500
+date:   2021-03-11 14:45:00 -0500
 categories: announcement
 ---
 
