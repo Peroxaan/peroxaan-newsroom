@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Talon Featured in Apple's 'Peak Performance' Apple Event"
+title:  "Talon Featured in Apple's 'Peek Performance' Apple Event"
 date:   2021-03-11 14:35:00 -0500
 categories: announcement
 ---
 
 <img align="right" width="250" height="250" style="padding-left: 25px; padding-bottom: 25px;" src="/assets/images/TalonIcon.png">
 
-Just a few days ago, Apple featured Talon, the first app released by Peroxaan Studios - in their 'Peak Performance' event on March 8th.
+Just a few days ago, Apple featured Talon, the first app released by Peroxaan Studios - in their 'Peek Performance' event on March 8th.
 
 ### Details
 
