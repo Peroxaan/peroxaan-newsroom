@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Peroxaan introduces a new and refreshed Logo for 2022"
-date:   2022-03-18 18:00:00 -0500
+date:   2022-03-18 17:55:00 -0500
 categories: announcement
 ---
 
