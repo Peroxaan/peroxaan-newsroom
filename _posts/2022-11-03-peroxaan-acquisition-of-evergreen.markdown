@@ -17,4 +17,4 @@ While we are not ready to announce anything yet, we will be reviving Evergreen, 
 
 ### Finishing Thoughts
 
-If you'd like to leave any suggestions for Evergreen, feel free to reply to our tweet about the acquisition! All ideas will be considered.
+If you'd like to leave any suggestions for Evergreen, feel free to reply to our [tweet](https://twitter.com/Peroxaan/status/1588245881287237632?s=20&t=dmbUI9_3cgWxqH-Xq9reTA) about the acquisition! All ideas will be considered.
