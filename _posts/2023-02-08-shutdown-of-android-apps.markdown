@@ -19,4 +19,4 @@ Moving forward, we'll be focusing more on the development of our iOS and macOS a
 
 ### Wrap up
 
-We know it may be unfortunate for the people who liked using our Android apps, but this is an necessary step to move forward. We hope you continue to support us. On a more positive note, we plan to launch a refreshed website pretty soon, so theres that to look forward to! Thanks for your understanding.
+We know it may be unfortunate for the people who liked using our Android apps, but this is an necessary step to move forward. We hope you continue to support us. On a more positive note, we plan to launch a refreshed website pretty soon, so theres that to look forward to! Thanks for your understanding!
